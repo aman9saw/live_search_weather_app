@@ -29,7 +29,7 @@ useEffect(() =>{
     //alert('hii'); 
 
     async function getData(){
-        const res = await axios.get(`http://api.openweathermap.org/data/2.5/weather?q=${search}&units=metric&appid=b2a77b7e430674f81508747d7755757e`);
+        const res = await axios.get(`https://api.openweathermap.org/data/2.5/weather?q=${search}&units=metric&appid=b2a77b7e430674f81508747d7755757e`);
          
         setCity(res.data.name);
         setTmp(res.data.main.temp);
