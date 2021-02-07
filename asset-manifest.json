@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/live_search_weather_app/static/css/main.00becf97.chunk.css",
+    "main.js": "/live_search_weather_app/static/js/main.35b3e758.chunk.js",
+    "main.js.map": "/live_search_weather_app/static/js/main.35b3e758.chunk.js.map",
+    "runtime-main.js": "/live_search_weather_app/static/js/runtime-main.03813def.js",
+    "runtime-main.js.map": "/live_search_weather_app/static/js/runtime-main.03813def.js.map",
+    "static/css/2.150d169a.chunk.css": "/live_search_weather_app/static/css/2.150d169a.chunk.css",
+    "static/js/2.615f9efc.chunk.js": "/live_search_weather_app/static/js/2.615f9efc.chunk.js",
+    "static/js/2.615f9efc.chunk.js.map": "/live_search_weather_app/static/js/2.615f9efc.chunk.js.map",
+    "index.html": "/live_search_weather_app/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/live_search_weather_app/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.00becf97.chunk.css.map": "/live_search_weather_app/static/css/main.00becf97.chunk.css.map",
+    "static/js/2.615f9efc.chunk.js.LICENSE.txt": "/live_search_weather_app/static/js/2.615f9efc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03813def.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.615f9efc.chunk.js",
+    "static/css/main.00becf97.chunk.css",
+    "static/js/main.35b3e758.chunk.js"
+  ]
+}
